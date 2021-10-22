@@ -1,2 +1,1 @@
-hello this is first text file.
-hello this is the second text file.
+ here is the merged content of hello this is first text file. and hello this is the second text file.
